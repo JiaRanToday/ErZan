@@ -4,5 +4,5 @@
 + BDT -- TL7519烧录工具
   + 直接打开Telink BDT.exe
   + 使用方式
-    +d
+   +  
 + 
