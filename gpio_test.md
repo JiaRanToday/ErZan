@@ -15,3 +15,5 @@
 ## 4. USB
 + USB未插入 LED快闪,间隔200ms
 + USB插入 LED间隔200ms变化一次
+## 5. adc
++ 
